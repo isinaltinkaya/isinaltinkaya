@@ -1,16 +1,30 @@
-### Hi there 👋
+### Hi, I'm [Isin!](https://isinaltinkaya.github.io)
+
+<a href="https://twitter.com/isinaltinkaya">
+  <img align="left" alt="Isin Altinkaya | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.instagram.com/isinaltinkaya/">
+  <img align="left" alt="Isin Altinkaya's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<br />
 
 <!--
-**isinaltinkaya/isinaltinkaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Support me
+<p align="center">
+    <a href="https://www.patreon.com/onimur" target="_blank">
+        <img width="18%" alt="Check my Patreon" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-patreon.png"/>
+    </a>
+    <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=YUTBBKXR2XCPJ" target="_blank">
+        <img width="18%" alt="Donate with Paypal" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-paypal.png"/>
+    </a>
+    <a href="https://www.buymeacoffee.com/onimur" target="_blank">
+        <img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-buy-coffee.png"/>
+    </a>
+</p>
 -->
+
+![Isin Altinkaya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=isinaltinkaya&show_icons=true&hide_border=true)
+
+<br />
+
+[![Gmail Badge](https://img.shields.io/badge/-isinaltinkaya@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:isinaltinkaya@gmail.com)](mailto:isinaltinkaya@gmail.com)
