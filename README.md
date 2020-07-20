@@ -22,9 +22,9 @@
         <img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-buy-coffee.png"/>
     </a>
 </p>
--->
 
 ![Isin Altinkaya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=isinaltinkaya&show_icons=true&hide_border=true)
+-->
 
 <br />
 
