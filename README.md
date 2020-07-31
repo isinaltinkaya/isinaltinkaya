@@ -1,4 +1,6 @@
-### Hi, I'm [Isin!](https://isinaltinkaya.github.io)
+### Hi, I'm Isin!
+ 
+[Check my personal website!](https://isinaltinkaya.github.io)
 
 <a href="https://twitter.com/isinaltinkaya">
   <img align="left" alt="Isin Altinkaya | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
