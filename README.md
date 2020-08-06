@@ -1,5 +1,5 @@
 ### Hi, I'm Isin!
- 
+
 [Check my personal website!](https://isinaltinkaya.github.io)
 
 <a href="https://twitter.com/isinaltinkaya">
