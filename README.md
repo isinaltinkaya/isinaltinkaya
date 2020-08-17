@@ -27,13 +27,13 @@
 
 ![Isin Altinkaya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=isinaltinkaya&show_icons=true&hide_border=true)
 
+-->
 
 <br />
 
 I support open science, open access, open source and open software!
 
 <a href="https://my.fsf.org/join"><img src="https://static.fsf.org/nosvn/appeal2020/spring/banner.png" alt="We can't live, work or learn in freedom unless the software we use is free."></a>
--->
 
 <br />
 
