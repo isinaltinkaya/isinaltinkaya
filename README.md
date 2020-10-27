@@ -22,12 +22,7 @@ I support open science, open access, open source and open software!
 
 -->
 
-<br />
-
-
-<a href="https://my.fsf.org/join"><img src="https://static.fsf.org/nosvn/appeal2020/spring/banner.png" alt="We can't live, work or learn in freedom unless the software we use is free."></a>
-
-<br />
+<img src="https://static.fsf.org/nosvn/associate/crm/5212605.png">
 
 [![Gmail Badge](https://img.shields.io/badge/-isinaltinkaya@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:isinaltinkaya@gmail.com)](mailto:isinaltinkaya@gmail.com)
 
