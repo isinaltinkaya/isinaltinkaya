@@ -2,6 +2,8 @@
 
 I am interested in bioinformatics, population genetics and statistical genomics.
 
+I like nerding around with Linux and automating everything.
+
 Check out my [personal website!](https://isinaltinkaya.github.io)
 
 
