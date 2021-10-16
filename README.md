@@ -1,6 +1,8 @@
 ### Hi, I'm Isin!
 
-[Check my personal website!](https://isinaltinkaya.github.io)
+I am interested in bioinformatics, population genetics and statistical genomics.
+
+Check out my [personal website!](https://isinaltinkaya.github.io)
 
 
 <!--
