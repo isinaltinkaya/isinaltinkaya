@@ -6,15 +6,14 @@ Check out my [personal website!](https://isinaltinkaya.github.io)
 
 <!--
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=isinaltinkaya)](https://git.io/streak-stats)
+
+![Isin's github stats](https://github-readme-stats.vercel.app/api?username=isinaltinkaya&show_icons=true&theme=dark&count_private=true&hide_rank=true)
 -->
+<img align="left" src="https://static.fsf.org/nosvn/associate/crm/5212605.png"/>
 
 
-<img src="https://static.fsf.org/nosvn/associate/crm/5212605.png">
+<a href="mailto:isinaltinkaya@gmail.com"> <img src="https://img.shields.io/badge/-isinaltinkaya@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:isinaltinkaya@gmail.com"></a> 
 
-[![Gmail Badge](https://img.shields.io/badge/-isinaltinkaya@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:isinaltinkaya@gmail.com)](mailto:isinaltinkaya@gmail.com)
-
-<- Academic Twitter
-<a href="https://twitter.com/isinaltinkaya">
-  <img align="left" alt="Isin Altinkaya | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://twitter.com/isinaltinkaya"> 
+  <img align="left" alt="Isin Altinkaya | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/> Academic Twitter
 </a>
-<br />
