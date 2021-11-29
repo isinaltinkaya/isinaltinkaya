@@ -12,7 +12,7 @@ Check out my [personal website!](https://isinaltinkaya.github.io)
 <img align="left" src="https://static.fsf.org/nosvn/associate/crm/5212605.png"/>
 
 
-<a href="mailto:isinaltinkaya@gmail.com"> <img src="https://img.shields.io/badge/-isinaltinkaya@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:isinaltinkaya@gmail.com"></a> 
+<a href="mailto:isinaltinkaya@gmail.com"> <img align="left" src="https://img.shields.io/badge/-isinaltinkaya@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:isinaltinkaya@gmail.com"></a> 
 
 <a href="https://twitter.com/isinaltinkaya"> 
   <img align="left" alt="Isin Altinkaya | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/> Academic Twitter
