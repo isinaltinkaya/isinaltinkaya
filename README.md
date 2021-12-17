@@ -1,6 +1,6 @@
 ### Hi, I'm Isin!
 
-I am interested in bioinformatics, population genetics and statistical genomics.
+I am a PhD fellow at the University of Copenhagen. I am interested in bioinformatics, population genetics and statistical genomics.
 
 Check out my [personal website!](https://isinaltinkaya.github.io)
 
