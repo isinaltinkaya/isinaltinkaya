@@ -10,10 +10,10 @@ For more details, you can check my [personal website](https://isinaltinkaya.gith
   <img alt="Isin Altinkaya | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/> Twitter @IsinAltinkaya
 </a> !
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=isinaltinkaya)](https://git.io/streak-stats)
 
 <!--
 ![Isin's github stats](https://github-readme-stats.vercel.app/api?username=isinaltinkaya&show_icons=true&theme=dark&count_private=true&hide_rank=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=isinaltinkaya)](https://git.io/streak-stats)
 -->
 
 <img align="left" src="https://static.fsf.org/nosvn/associate/crm/5212605.png"/>
