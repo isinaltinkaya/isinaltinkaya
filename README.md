@@ -5,10 +5,9 @@ I am a Ph.D. fellow at the University of Copenhagen, supervised by Thorfinn Sand
 I am interested in bioinformatics, population genetics and statistical genomics. More specifically, my research interest revolves around developing novel methods and statistical frameworks aiming to disentangle evolutionary histories of populations, and implementing these methods into fast and efficient software.
 
 
-For more details, you can check my [personal website](https://isinaltinkaya.github.io), or find me on 
-<a href="https://twitter.com/isinaltinkaya"> 
+For more details, you can check my [personal website](https://isinaltinkaya.github.io), or find me on <a href="https://twitter.com/isinaltinkaya"> 
   <img alt="Isin Altinkaya | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/> Twitter @IsinAltinkaya
-</a> !
+</a>
 
 
 <!--
