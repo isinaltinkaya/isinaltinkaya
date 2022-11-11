@@ -6,10 +6,13 @@ I am interested in bioinformatics, population genetics and statistical genomics.
 
 I am a Linux geek \<i use arch btw\>. I use i3wm and vim. I like reading, playing video games, programming, philosophy, physics, chess, piano, and speed cubing.
 
-For more stuff about me, you can check my [personal website](https://isinaltinkaya.github.io), or find me on <a href="https://twitter.com/isinaltinkaya"> 
+For more stuff about me, you can check my [personal website](https://isinaltinkaya.github.io), or find me on 
+<a href="https://genomic.social/@isinaltinkaya"> 
+  <img alt="Isin Altinkaya" width="22px" src="https://cdn.icon-icons.com/icons2/2622/PNG/512/brand_mastodon_icon_157886.png"/>Mastodon @IsinAltinkaya
+</a>
+ and <a href="https://twitter.com/isinaltinkaya"> 
   <img alt="Isin Altinkaya | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/> Twitter @IsinAltinkaya
 </a>
-
 
 <!--
 ![Isin's github stats](https://github-readme-stats.vercel.app/api?username=isinaltinkaya&show_icons=true&theme=dark&count_private=true&hide_rank=true)
