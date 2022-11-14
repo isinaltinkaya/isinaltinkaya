@@ -1,10 +1,10 @@
 ### Hi, I'm Isin!
 
-I am a Ph.D. fellow at the University of Copenhagen, supervised by Thorfinn Sand Korneliussen and Rasmus Nielsen.
+I am a Ph.D. fellow at the University of Copenhagen, supervised by [Thorfinn Sand Korneliussen](https://scholar.google.com/citations?user=-YNWF4AAAAAJ&hl=en&oi=ao) and [Rasmus Nielsen](https://scholar.google.com/citations?hl=en&user=PySbfcEAAAAJ).
 
 I am interested in bioinformatics, population genetics and statistical genomics. More specifically, my research interest revolves around developing novel methods and statistical frameworks aiming to disentangle evolutionary histories of populations, and implementing these methods into fast and efficient software.
 
-I am a Linux geek \<i use arch btw\>. I use i3wm and vim. I like reading, playing video games, programming, philosophy, physics, chess, piano, and speed cubing.
+I am a Linux geek [\<i use arch btw\>](https://knowyourmeme.com/memes/btw-i-use-arch). I use [i3wm](https://i3wm.org/) and am a [vim](https://levelup.gitconnected.com/why-every-software-engineer-should-use-vim-b9fb97e69d97) enthusiast. I like reading, playing video games, programming, rambling about philosophy and physics, stoicism, chess, piano, and speed cubing.
 
 For more stuff about me, you can check my [personal website](https://isinaltinkaya.github.io), or find me on 
 <a href="https://genomic.social/@isinaltinkaya"> 
