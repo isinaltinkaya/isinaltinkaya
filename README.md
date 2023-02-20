@@ -8,13 +8,17 @@ I am interested in bioinformatics, population genetics and statistical genomics.
 I am a Linux geek _[\<i use arch btw\>](https://knowyourmeme.com/memes/btw-i-use-arch)_ & [i3wm](https://i3wm.org/) & [vim](https://levelup.gitconnected.com/why-every-software-engineer-should-use-vim-b9fb97e69d97). I love statically-typed & systems programming languages. I love investigating/finding/fixing/thinking-about bugs, especially the most sneaky and annoying ones. I like reading, playing video games, programming, rambling about philosophy, cringing at bad physics takes, stoicism, playing piano, blitz chess and speedcubing. 
 
 
-For more, you can check my [personal website](https://isinaltinkaya.github.io), or find me on 
+For more, you can check my [personal website](https://isinaltinkaya.github.io), or find me on:
+
+:arrow_right:
 <a href="https://genomic.social/@isinaltinkaya"> 
   <img alt="Isin Altinkaya" width="22px" src="https://cdn.icon-icons.com/icons2/2622/PNG/512/brand_mastodon_icon_157886.png"/>Mastodon @IsinAltinkaya
 </a>
- and <a href="https://twitter.com/isinaltinkaya"> 
+
+:arrow_right:
+<a href="https://twitter.com/isinaltinkaya"> 
   <img alt="Isin Altinkaya | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/> Twitter @IsinAltinkaya
-</a>.
+</a>
 
 You can contact me by e-mail at isin.altinkayaGGGGGGGG@sund.ku.dk, with poly-G tail removed.
 
