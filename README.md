@@ -8,7 +8,7 @@ I am interested in bioinformatics, population genetics and statistical genomics.
 I am a Linux geek _[\<i use arch btw\>](https://knowyourmeme.com/memes/btw-i-use-arch)_ & [i3wm](https://i3wm.org/) & [vim](https://levelup.gitconnected.com/why-every-software-engineer-should-use-vim-b9fb97e69d97). I love statically-typed & systems programming languages. I love investigating/finding/fixing/thinking-about bugs, especially the most sneaky and annoying ones. I like reading, playing video games, programming, rambling about philosophy, cringing at bad physics takes, stoicism, playing piano, blitz chess and speedcubing. 
 
 
-For more, you can check my [personal website](https://isinaltinkaya.github.io), or find me on:
+For more, you can check my personal website at [isinaltinkaya.com](https://isinaltinkaya.github.io), or find me on:
 
 :arrow_right:
 <a href="https://genomic.social/@isinaltinkaya"> 
